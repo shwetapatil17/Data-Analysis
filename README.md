@@ -1,15 +1,38 @@
-# Data-Analysis
-📌 Projects Description :
-This project focuses on analyzing a dataset to extract meaningful insights using various data analysis techniques. It involves data cleaning, exploration, visualization, and interpretation to support data-driven decision making. The analysis was performed using tools like Python (Pandas, Matplotlib, Seaborn), Excel, or Power BI, depending on the dataset and objective.
-# My Data Analysis Project
+# HR-DASHBOARD :
 
-## Objective :
-Analyze data to predict the future outcomes and meaningfull insights .
+This project is an interactive HR Dashboard built using Power BI.  
+It helps HR professionals analyze employee data and gain insights into attrition, department-wise distribution, hiring trends, and more.
 
-## Tools Used :
-- Python
+## 📊 Key Features
+
+- Employee overview and demographics
+- Attrition analysis
+- Department-wise performance
+- Hiring trends visualization
+- Interactive filters and slicers
+
+## 🛠️ Tools & Technologies
+
 - Power BI
 - Excel
+- DAX
+- Data Cleaning Techniques
+
+## 📁 Dataset Source
+
+The dataset used in this project is either dummy HR data or sourced from public platforms like Kaggle.
+
+dataset-link : https://drive.google.com/file/d/13c6RjC-DmXOELuGSA9-4ivyh8b9Mt7xu/view?usp=drive_link
+
+## 📌 Purpose :
+
+To demonstrate HR analytics skills and Power BI visualization capabilities.
+
+## 📷 dashboard -view :
+
+https://drive.google.com/file/d/19Kgqbr3ccaiiXHZ6b1JhuXy8Tr08eyF2/view?usp=drive_link
+
+
 
 ## Steps Followed :
 1. Data Cleaning

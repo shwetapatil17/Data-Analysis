@@ -14,7 +14,6 @@ It helps HR professionals analyze employee data and gain insights into attrition
 ## 🛠️ Tools & Technologies
 
 - Power BI
-- Excel
 - DAX
 - Data Cleaning Techniques
 
